@@ -142,7 +142,6 @@ D:\Projects\GitHub\DeviceController\DeviceController\bin\ARM\Debug\System.Xml.XD
 D:\Projects\GitHub\DeviceController\DeviceController\bin\ARM\Debug\System.Xml.XmlDocument.dll
 D:\Projects\GitHub\DeviceController\DeviceController\bin\ARM\Debug\System.Xml.XmlSerializer.dll
 D:\Projects\GitHub\DeviceController\DeviceController\bin\ARM\Debug\Validation.dll
-D:\Projects\GitHub\DeviceController\DeviceController\obj\ARM\Debug\DeviceController.csprojResolveAssemblyReference.cache
 D:\Projects\GitHub\DeviceController\DeviceController\obj\ARM\Debug\DeviceController.csproj.CoreCompileInputs.cache
 D:\Projects\GitHub\DeviceController\DeviceController\obj\ARM\Debug\DeviceController.winmd
 D:\Projects\GitHub\DeviceController\DeviceController\obj\ARM\Debug\DeviceController.pdb
@@ -237,3 +236,4 @@ D:\Projects\GitHub\DeviceController\DeviceController\obj\ARM\Debug\Microsoft.Azu
 D:\Projects\GitHub\DeviceController\DeviceController\obj\ARM\Debug\Microsoft.Azure.Devices.Client.pri.xml
 D:\Projects\GitHub\DeviceController\DeviceController\obj\ARM\Debug\Microsoft.Azure.Devices.Shared.pri.xml
 D:\Projects\GitHub\DeviceController\DeviceController\obj\ARM\Debug\ProjectArchitectures.txt
+D:\Projects\GitHub\DeviceController\DeviceController\obj\ARM\Debug\DeviceController.csprojResolveAssemblyReference.cache
